@@ -1,0 +1,17 @@
+feature	count
+exon	190176
+CDS	163377
+5UTR	46856
+3UTR	33778
+start_codon	30922
+stop_codon	30862
+mRNA	30836
+gene	17872
+ncRNA	3059
+miRNA	485
+pseudogene	365
+tRNA	312
+snoRNA	270
+pre_miRNA	262
+rRNA	115
+snRNA	32
